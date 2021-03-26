@@ -1,6 +1,6 @@
 # iNoBounce
 > Stop your iOS webapp from bouncing around when scrolling
-
+解决H5页面在iOS系统中滑动回弹效果(橡皮筋效果)导致的穿透问题
 
 ## The problem
 
